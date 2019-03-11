@@ -2,9 +2,9 @@
 
 This is a simple Facebook Chat Bot script that replies automatically to incoming messages in Facebook. The reply are not that accurate, but it's fun to try to.
 
-Credit to [fbchat](https://github.com/carpedm20/fbchat) and [chatterbot](https://github.com/gunthercox/ChatterBot)
+Credit to [fbchat](https://github.com/carpedm20/fbchat) and [chatterbot](https://github.com/gunthercox/ChatterBot) for their awesome modules.
 
-###Instructions
+### Instructions
 
 1. Clone the repo:
   ```
